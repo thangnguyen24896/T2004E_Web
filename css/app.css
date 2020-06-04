@@ -1,0 +1,13 @@
+body{
+    background-image: url("../imgs/img-9893-1489988884404.jpg");
+}
+h1{
+    font-size: 100px;
+    font-family: Arial;
+    font-weight: 400; /* 100 200 300 400=(normal) 500 600 700 800 900 */
+    line-height: 100px;
+    text-decoration: underline;
+    /* underline; line-through; overline; none*/
+    color: dodgerblue; /* rgba(255,17,34,0.5) */
+    background-color: chartreuse;
+}
